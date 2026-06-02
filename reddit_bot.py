@@ -1,6 +1,6 @@
 """
 reddit_bot - Reddit bot
-Replies "That's me!" to any post mentioning "Jacob Collier".
+A Reddit bot that reads reply rules from JSON and responds when a post matches one of those regular expressions.
 
 See https://www.wappkit.com/blog/how-to-build-reddit-bot-python-2025
 1. Create a dedicated Reddit account for your bot
